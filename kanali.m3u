@@ -730,15 +730,12 @@ http://176.67.211.6:15000/udp/239.1.1.188:22188
 http://176.67.211.6:15000/udp/239.1.1.189:22189
 #EXTINF:0 tvg-id="ArenaSport5.rs" group-title="Channels",Arena Sport 5
 http://176.67.211.6:15000/udp/239.1.1.190:22190
-#EXTM3U
-
 #EXTINF:-1 tvg-id="NovaHR" group-title="Hrvatska",Nova TV (Hrvatska)
 http://novatv.hr/live
-
 #EXTINF:-1 tvg-id="NovaBH" group-title="Bosna i Hercegovina",Nova BH
 http://player.olweb.tv/live
 #EXTINF:-1 tvg-id="NovaBH2" group-title="Bosna i Hercegovina",Nova BH (alternativni)
 http://sipragezabava.com/live
-
 #EXTINF:-1 tvg-id="NovaS" group-title="Srbija",Nova S
 http://live.olweb.tv
+
